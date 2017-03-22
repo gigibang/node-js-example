@@ -16,6 +16,7 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
+<<<<<<< HEAD
 
 Welcome to The Great Geelong
 Welcome to The Great Geelong twice!
@@ -24,3 +25,11 @@ Welcome to Shaoguan!
 
 
 welcome to 3rd world!
+=======
+//new-branch-example
+Welcome to The Great Geelong
+Welcome to The Great Geelong twice!
+//master
+Welcome to Shaoguan!
+
+>>>>>>> origin/new-branch-example
